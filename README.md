@@ -4,9 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kodirov8788&label=Profile%20views&color=0e75b6&style=flat" alt="kodirov8788" /> </p>
 
 - 🔭 I’m currently working as a Software Engineer at Quinque Inc.
-- 🌱 I’m currently learning **Python for fun**
+- 🌱 I’m currently learning **React-native for fun**
+- 👯 I’m looking to collaborate on [Algoritm-coin](https://www.algoritm-coin.uz)
 - 🤝 I’m looking for help with **Frontend-Backend**
 - 📝 I regularly write articles on [https://www.linkedin.com/in/kodirov-dev/](https://www.linkedin.com/in/kodirov-dev/)
+- 📄 Check out my resume: [profile-woad-six.vercel.app](https://profile-woad-six.vercel.app)
 - 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Nest.js, Express.js, Python, Backend Development, Frontend Development, CI/CD, MongoDB**
 - 📫 How to reach me **kodirov8788@gmail.com**
 - ⚡ Fun fact **I think i am self-confident at work**
