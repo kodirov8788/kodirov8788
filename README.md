@@ -10,7 +10,9 @@
 - 📄 Check out my resume: [profile-woad-six.vercel.app](https://profile-woad-six.vercel.app)
 - 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Nest.js, Express.js, Python, Backend Development, Frontend Development, CI/CD, MongoDB,WebSocket, TypeScript, Flutter (3 months experience)**
 - 📫 How to reach me **kodirov8788@gmail.com**
-- ⚡ Fun fact **I think i am self-confident at work**
+- ⚡ Fun fact **I think I am self-confident at work**
+- 🎥 Check out my GitHub account video walkthrough: [Watch on YouTube](https://youtu.be/j-NcWW_fxPQ)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
