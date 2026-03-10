@@ -1,5 +1,3 @@
-# GitHub Profile README: Senior Authority Version
-
 <h1 align="center">Hi 👋, I'm Mukhammadali Kodirov</h1>
 
 <h3 align="center">Senior Backend Engineer | Tech Lead | Node.js & TypeScript Expert</h3>
