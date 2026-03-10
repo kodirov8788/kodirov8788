@@ -1,6 +1,8 @@
+# GitHub Profile README: Senior Authority Version
+
 <h1 align="center">Hi 👋, I'm Mukhammadali Kodirov</h1>
 
-<h3 align="center">A Software Engineer & Tech Lead living in Japan, specializing in Full-Stack Development</h3>
+<h3 align="center">Senior Backend Engineer | Tech Lead | Node.js & TypeScript Expert</h3>
 
 <p align="center">
   <a href="https://www.muhammadali.pro" target="_blank">
@@ -23,56 +25,43 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
-- 🔭 Currently working as **Software Engineer / Tech Lead** at [Quinque Inc.](https://quinque.co.jp/) (Japan)
-- 🌱 Currently learning **React Native** for fun
-- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Nest.js, Express.js, Python, TypeScript, MongoDB, WebSocket, CI/CD, Flutter, Swift**
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/kodirov-dev/)
+- 🔭 Currently working as **Senior Backend Engineer / Tech Lead** at [Quinque Inc.](https://quinque.co.jp/) (Japan)
+- 🏗️ Specializing in **Scalable Backend Architectures**, **System Design**, and **Cloud Infrastructure (AWS)**
+- 🌱 Constantly refining performance patterns in **NestJS** and **TypeScript**
+- 💬 Ask me about **System Design, Database Optimization (PostgreSQL/Redis), AWS Cost Efficiency, and CI/CD Automation**
+- 📝 Strategic content creator on [LinkedIn](https://www.linkedin.com/in/kodirov-dev/) focusing on engineering trade-offs
 - 📫 How to reach me: **kodirov8788@gmail.com**
-- 🌐 Visit my portfolio: **[muhammadali.pro](https://www.muhammadali.pro/)**
-- ⚡ Fun fact: **I am self-confident at work**
-- 🎥 Check out my GitHub account video walkthrough: [Watch on YouTube](https://youtu.be/j-NcWW_fxPQ)
+- ⚡ Focus: **High-performance, reliable backend systems that balance technical excellence with business value.**
+- 🎥 Watch my profile walkthrough: [YouTube Link](https://youtu.be/j-NcWW_fxPQ)
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Authority Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Core Focus (Backend & Infrastructure)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### Frontend & Development
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Database & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Mobile & DevOps
+### Mobile (Cross-platform)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-### Other
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Engineering Metrics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kodirov8788&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=000000&count_private=true&hide_rank=false" alt="kodirov8788" />
