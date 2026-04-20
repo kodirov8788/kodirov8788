@@ -1,0 +1,60 @@
+name: Daily Tech News Update
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight
+  workflow_dispatch:
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      - name: Fetch Tech News
+        run: |
+          python -c "
+          import urllib.request
+          import json
+          import datetime
+
+          # Fetch Hacker News top stories
+          try:
+              req = urllib.request.Request('https://hacker-news.firebaseio.com/v0/topstories.json')
+              with urllib.request.urlopen(req) as response:
+                  top_ids = json.loads(response.read())[:5]
+              
+              news_md = '\n\n### 📰 Daily Tech Brew (' + str(datetime.date.today()) + ')\n'
+              for id in top_ids:
+                  with urllib.request.urlopen(f'https://hacker-news.firebaseio.com/v0/item/{id}.json') as res:
+                      story = json.loads(res.read())
+                      news_md += f'- [{story.get(\"title\")}]({story.get(\"url\")})\n'
+              
+              with open('README.md', 'r') as f:
+                  content = f.read()
+              
+              # Replace the section between markers
+              start_marker = '<!-- NEWS_START -->'
+              end_marker = '<!-- NEWS_END -->'
+              if start_marker in content and end_marker in content:
+                  parts = content.split(start_marker)
+                  post_parts = parts[1].split(end_marker)
+                  new_content = parts[0] + start_marker + news_md + end_marker + post_parts[1]
+                  with open('README.md', 'w') as f:
+                      f.write(new_content)
+              else:
+                  with open('README.md', 'a') as f:
+                      f.write('\n' + start_marker + news_md + end_marker)
+          except Exception as e:
+              print(f'Error fetching news: {e}')
+          "
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'Streak Maintainer Bot'
+          git config --global user.email 'bot@muhammadali.pro'
+          git add README.md
+          git commit -m \"chore: update daily tech news [skip ci]\" || echo \"No changes to commit\"
+          git push

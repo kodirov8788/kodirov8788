@@ -16,6 +16,18 @@ Driven by caffeine and architectural precision, I specialize in building scalabl
 
 ---
 
+<!-- NEWS_START -->
+
+### 📰 Daily Tech Brew (2026-04-20)
+- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
+- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
+- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
+- [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)
+- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
+<!-- NEWS_END -->
+
+---
+
 ### 🛠️ The Tech Roast (My Stack)
 
 | Category | Tools & Technologies |
@@ -30,6 +42,7 @@ Driven by caffeine and architectural precision, I specialize in building scalabl
 ### 🏆 Featured Brews (Top Projects)
 
 - **🛡️ PR Sentinel AI** - AI-Native Code Auditor using n8n and Codex CLI.
+- **☁️ AWS Cloud Optimization** - Saved \$3,456/year by migrating legacy RDS instances to PostgreSQL 16.
 - **🛍️ Bozorbob Core** - High-conversion e-commerce storefront for multilingual markets.
 - **🉐 Japanese Kanji** - Daily challenge platform for mastering JLPT Kanji.
 - **🤝 Topish API** - Social/Job platform backbone with GPT-4 orchestration.
