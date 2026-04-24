@@ -18,12 +18,12 @@ Driven by caffeine and architectural precision, I specialize in building scalabl
 
 <!-- NEWS_START -->
 
-### 📰 Daily Tech Brew (2026-04-20)
-- [Vercel April 2026 security incident](https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/)
-- [A Brief History of Fish Sauce](https://www.legalnomads.com/fish-sauce/)
-- [The Bromine Chokepoint](https://warontherocks.com/cogs-of-war/the-bromine-chokepoint-how-strife-in-the-middle-east-could-halt-production-of-the-worlds-memory-chips/)
-- [Show HN: TRELLIS.2 image-to-3D running on Mac Silicon – no Nvidia GPU needed](https://github.com/shivampkumar/trellis-mac)
-- [2,100 Swiss municipalities showing which provider handles their official email](https://mxmap.ch/)
+### 📰 Daily Tech Brew (2026-04-24)
+- [DeepSeek v4](https://api-docs.deepseek.com/)
+- [Composition Shouldn't be this Hard](https://www.cambra.dev/blog/announcement/)
+- [Why I Write (1946)](https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/why-i-write/)
+- [An update on recent Claude Code quality reports](https://www.anthropic.com/engineering/april-23-postmortem)
+- [Spinel: Ruby AOT Native Compiler](https://github.com/matz/spinel)
 <!-- NEWS_END -->
 
 ---
